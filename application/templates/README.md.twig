@@ -1,0 +1,36 @@
+Hi 👋, I am {{ badge('twitter') }} {{ badge('linkedin') }}, I am CTO at [Novactive](https://www.novactive.us) by [Nextedia](https://www.nextedia.com).
+I live in California, and I come from France 🥖.
+
+🦚 proud maintainer or co-maintainer on those projets: https://plopix.github.io/
+
+💯 my favourite technologies: {{ badge('php') }} {{ badge('symfony') }}, really often, I base my developments on top of {{ badge('ezplatform') }}
+
+🚀 I always push to ship on {{ badge('platformsh') }}, but we have some projects on {{ badge('aws') }}
+
+🐳 and for local developments that's of course {{ badge('docker') }}
+
+🧰 my toolbox is {{ badge('mysql') }} {{ badge('mongodb') }}, {{ badge('redis') }}, {{ badge('elasticsearch') }} {{ badge('solr') }} all the time with {{ badge('varnish') }}
+
+🧪 for CI, it's {{ badge('git') }} {{ badge('github') }} and {{ badge('travis') }}. More and more {{ badge('githubactions') }}. Occasionnaly {{ badge('gitlab') }} {{ badge('bitbucket') }}
+
+🌉 When it comes to {{ badge('html') }}  {{ badge('css') }}, I use {{ badge('typecript') }} {{ badge('javascript') }} on top of {{ badge('reactjs') }} with {{ badge('bootstrap') }}
+
+<a href="https://github.com/plopix"><img alt="Plopix's Github stats" src="https://github-readme-stats.vercel.app/api?username=plopix&count_private=true&show_icons=true&hide_title=true" /></a>
+<a href="https://github.com/sponsors/plopix"><img align="right" src="https://github.githubassets.com/images/modules/site/sponsors/logo-mona.svg" alt="Mona holding a heart" width="180"/></a>
+
+
+<details>
+    <summary>💯 More Stats</summary><br />
+    <img width="400" alt="Plopix's Wakatime Languages" src="https://wakatime.com/share/@plopix/9548f056-f696-41fe-8266-b025f19192c6.svg" />
+    <img width="400" alt="Plopix's Wakatime Times" src="https://wakatime.com/share/@plopix/91750824-23bb-417c-9e17-d9ee0869eda2.svg" />
+</details>
+
+<details>
+  <summary>🎼 My Symfony Badges</summary><br />
+  {% for sfbadge in symfonyBadges %}
+        <a href="{{ sfbadge.link }}"><img width="100" src="{{ sfbadge.img }}" alt="{{ sfbadge.name }}"></a>
+  {% endfor %}
+</details>
+
+
+<img align="right" src='https://img.shields.io/badge/Updated on-{{ 'now'|date('m-d-Y H:i:s')|replace({'-':'--'}) }}-green?style=flat-square&labelColor=black' alt='Updated on {{ 'now'|date('m-d-Y H:i:s')|replace({'-':'--'}) }}'/>

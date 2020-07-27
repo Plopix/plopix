@@ -1,0 +1,36 @@
+name: Update Github README.md
+on:
+    schedule:
+        -   cron: '42 0 * * 0'
+
+jobs:
+    update:
+        name: Re Generate README.md
+        runs-on: ubuntu-latest
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        steps:
+            -   uses: actions/checkout@v2
+
+            -   name: Setup PHP
+                uses: shivammathur/setup-php@master
+                with:
+                    php-version: 7.4
+                id: php
+
+            -   name: Validate composer.json and composer.lock
+                run: cd application && composer validate
+
+            -   name: Install dependencies
+                run: cd application && composer install --prefer-dist --no-progress --no-suggest --no-interaction
+
+            -   name: Generate
+                run: APP_ENV=prod php application/bin/generate.php > README.md
+
+            -   name: Commit and push if changed
+                run: |
+                    git diff
+                    git config --global user.email "morel.seb@gmail.com"
+                    git config --global user.name "Plopix"
+                    git commit -am "Auto-Update Readme"
+                    git push
