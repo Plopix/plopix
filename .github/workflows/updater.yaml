@@ -18,9 +18,6 @@ jobs:
                     php-version: 7.4
                 id: php
 
-            -   name: Validate composer.json and composer.lock
-                run: cd application && composer validate
-
             -   name: Install dependencies
                 run: cd application && composer install --prefer-dist --no-progress --no-suggest --no-interaction
 
