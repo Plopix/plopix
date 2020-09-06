@@ -45,4 +45,4 @@ I live in California, and I come from France 🥖.
   </details>
 
 
-<img align="right" src='https://img.shields.io/badge/Updated on-08--30--2020 00:45:15-green?style=flat-square&labelColor=black' alt='Updated on 08--30--2020 00:45:15'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-09--06--2020 01:05:12-green?style=flat-square&labelColor=black' alt='Updated on 09--06--2020 01:05:12'/>
