@@ -6,12 +6,14 @@
     },
     "require": {
         "php": "^7.4",
-        "twig/twig": "^3.0",
+        "twig/twig": "^3",
         "symfony/yaml": "^5.1",
         "matthiasnoback/convenient-immutability": "^0.3.0",
         "symfony/http-client": "^5.1",
         "symfony/dom-crawler": "^5.1",
-        "symfony/css-selector": "^5.1"
+        "symfony/css-selector": "^5.1",
+        "contentful/contentful": "^6.0",
+        "symfony/dotenv": "^5.1"
     },
     "require-dev": {
         "symfony/var-dumper": "^5.1"

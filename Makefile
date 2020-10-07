@@ -20,4 +20,4 @@ list:
 
 .PHONY: generate
 generate: ## Generate the MD file
-	@APP_ENV=prod $(PHP) application/bin/generate.php > README.md
+	@$(PHP) application/bin/generate.php > README.md

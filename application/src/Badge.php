@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace App;
 
+use Contentful\Delivery\Resource\Entry;
 use ConvenientImmutability\Immutable;
 
 final class Badge
@@ -21,16 +22,16 @@ final class Badge
     public ?string $link;
     public string $source;
 
-    public function __construct(array $config)
+    public function __construct(Entry $config)
     {
         $this->__immutable();
-        $this->label = $config['label'] ?? 'unknown';
-        $this->style = $config['style'] ?? 'flat-square';
-        $this->logo = $config['logo'] ?? null;
-        $this->message = $config['message'] ?? null;
-        $this->color = $config['color'] ?? 'green';
-        $this->labelColor = $config['labelColor'] ?? 'black';
-        $this->link = $config['link'] ?? null;
-        $this->source = $config['source'] ?? 'shields.io';
+        $this->label = $config->get('label') ?? 'unknown';
+        $this->style = $config->get('style') ?? 'flat-square';
+        $this->logo = $config->get('logo') ?? null;
+        $this->message = $config->get('message') ?? null;
+        $this->color = $config->get('color') ?? 'green';
+        $this->labelColor = $config->get('labelColor') ?? 'black';
+        $this->link = $config->get('link') ?? null;
+        $this->source = 'shields.io';
     }
 }

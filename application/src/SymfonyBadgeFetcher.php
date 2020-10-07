@@ -16,22 +16,21 @@ final class SymfonyBadgeFetcher
     {
         $client = HttpClient::create();
         $response = $client->request('GET', self::URL);
-        if ($response->getStatusCode() !== 200) {
-            throw new RuntimeException("Profile page not available.");
+        if (200 !== $response->getStatusCode()) {
+            throw new RuntimeException('Profile page not available.');
         }
         $content = $response->getContent();
         $crawler = new Crawler($content);
 
         $bagdes = [];
-        $list = $crawler->filter("body .profile_public ul.thumbnails > li");
+        $list = $crawler->filter('body .profile_public ul.thumbnails > li');
 
         foreach ($list as $item) {
-
             $link = $item->firstChild;
             $bagdes[] = [
                 'name' => $link->attributes->getNamedItem('title')->nodeValue,
                 'link' => 'https://connect.symfony.com'.$link->attributes->getNamedItem('href')->nodeValue,
-                'img' => $link->firstChild->attributes->getNamedItem('src')->nodeValue
+                'img' => $link->firstChild->attributes->getNamedItem('src')->nodeValue,
             ];
         }
 
