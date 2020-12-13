@@ -21,6 +21,7 @@
           <a href="https://connect.symfony.com/badge/16/five-year-membership"><img width="100" src="https://doschzharf1i9.cloudfront.net/personal_assets/badge/200x200/13f9afa9-8bf1-4f41-b4e7-b5237746556e.png" alt="Five-year membership badge"></a>
           <a href="https://connect.symfony.com/badge/15/four-year-membership"><img width="100" src="https://doschzharf1i9.cloudfront.net/personal_assets/badge/200x200/3e9693d4-db4b-4ea7-a43c-db3fe4557b57.png" alt="Four-year membership badge"></a>
           <a href="https://connect.symfony.com/badge/14/three-year-membership"><img width="100" src="https://doschzharf1i9.cloudfront.net/personal_assets/badge/200x200/6959cc5f-ec03-4700-b00c-e3320896a49a.png" alt="Three-year membership badge"></a>
+          <a href="https://connect.symfony.com/badge/162/symfonyworld-online-2020-attendee"><img width="100" src="https://doschzharf1i9.cloudfront.net/personal_assets/badge/200x200/06d08605-7446-46a6-b972-9ee8baf5eb23.png" alt="SymfonyWorld Online 2020 Attendee badge"></a>
           <a href="https://connect.symfony.com/badge/3/profile-completed"><img width="100" src="https://doschzharf1i9.cloudfront.net/personal_assets/badge/200x200/6c89d051-4774-4745-ad1b-6341ef76abef.png" alt="Profile completed badge"></a>
           <a href="https://connect.symfony.com/badge/132/symfony-loves-php-usa-2018-attendee"><img width="100" src="https://doschzharf1i9.cloudfront.net/personal_assets/badge/200x200/b99abfae-907d-4190-b7f4-d86d8715db30.png" alt="Symfony Loves PHP USA 2018 Attendee badge"></a>
           <a href="https://connect.symfony.com/badge/36/symfony-documentation-contributor"><img width="100" src="https://doschzharf1i9.cloudfront.net/personal_assets/badge/200x200/b732d9fb-0002-47c2-a91e-1a1e1fa1b445.png" alt="Symfony Documentation Contributor badge"></a>
@@ -35,4 +36,4 @@
   </details>
 
 
-<img align="right" src='https://img.shields.io/badge/Updated on-12--05--2020 17:23:21-green?style=flat-square&labelColor=black' alt='Updated on 12--05--2020 17:23:21'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-12--12--2020 17:30:37-green?style=flat-square&labelColor=black' alt='Updated on 12--12--2020 17:30:37'/>
