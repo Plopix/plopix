@@ -17,6 +17,7 @@
 
 <details>
   <summary>🎼 My Symfony Badges</summary><br />
+          <a href="https://connect.symfony.com/badge/26/seven-year-membership"><img width="100" src="https://doschzharf1i9.cloudfront.net/personal_assets/badge/200x200/d28c3e13-1a93-4988-986c-6875dc83f356.png" alt="Seven-year membership badge"></a>
           <a href="https://connect.symfony.com/badge/25/six-year-membership"><img width="100" src="https://doschzharf1i9.cloudfront.net/personal_assets/badge/200x200/d92978da-be67-455c-a2f9-e18298041111.png" alt="Six-year membership badge"></a>
           <a href="https://connect.symfony.com/badge/16/five-year-membership"><img width="100" src="https://doschzharf1i9.cloudfront.net/personal_assets/badge/200x200/13f9afa9-8bf1-4f41-b4e7-b5237746556e.png" alt="Five-year membership badge"></a>
           <a href="https://connect.symfony.com/badge/15/four-year-membership"><img width="100" src="https://doschzharf1i9.cloudfront.net/personal_assets/badge/200x200/3e9693d4-db4b-4ea7-a43c-db3fe4557b57.png" alt="Four-year membership badge"></a>
@@ -36,4 +37,4 @@
   </details>
 
 
-<img align="right" src='https://img.shields.io/badge/Updated on-01--02--2021 18:01:20-green?style=flat-square&labelColor=black' alt='Updated on 01--02--2021 18:01:20'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-01--09--2021 18:13:50-green?style=flat-square&labelColor=black' alt='Updated on 01--09--2021 18:13:50'/>
