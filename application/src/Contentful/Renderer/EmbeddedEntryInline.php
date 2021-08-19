@@ -40,7 +40,7 @@ class EmbeddedEntryInline implements NodeRendererInterface
 
     private function renderCompany(Entry $company): string
     {
-        return "<a href='_blank' href='{$company->get('url')}' title='{$company->get('name')}'>{$company->get('name')}</a>";
+        return "<a target='_blank' href='{$company->get('url')}' title='{$company->get('name')}'>{$company->get('name')}</a>";
     }
 
     private function renderShieldsIOBadge(Badge $badge): string
