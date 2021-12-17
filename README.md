@@ -17,14 +17,15 @@
 
 <details>
   <summary>🎼 My Symfony Badges</summary><br />
+          <a href="https://connect.symfony.com/badge/150/symfony-5-certified-developer-advanced"><img width="100" src="https://connect.symfony.com/uploads/badges/f96d22e1-7b4b-48bd-9a04-d599217cc0d4/ae7a35e5-78da-4b1d-b945-fe7b1d1d22c4.png" alt="Symfony 5 Certified Developer (Advanced) badge"></a>
           <a href="https://connect.symfony.com/badge/26/seven-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/d28c3e13-1a93-4988-986c-6875dc83f356/f7db381f-7942-40c4-82c3-f889cb0c10bc.png" alt="Seven-year membership badge"></a>
           <a href="https://connect.symfony.com/badge/25/six-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/d92978da-be67-455c-a2f9-e18298041111/bfac5876-a833-4fd4-a14f-af08d5672a4a.png" alt="Six-year membership badge"></a>
           <a href="https://connect.symfony.com/badge/16/five-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/13f9afa9-8bf1-4f41-b4e7-b5237746556e/edb3831a-be9a-4e16-a70d-309aa57d08df.png" alt="Five-year membership badge"></a>
           <a href="https://connect.symfony.com/badge/15/four-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/3e9693d4-db4b-4ea7-a43c-db3fe4557b57/8652f548-dc0d-4d14-9d25-9a4c61d46032.png" alt="Four-year membership badge"></a>
           <a href="https://connect.symfony.com/badge/14/three-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/6959cc5f-ec03-4700-b00c-e3320896a49a/067fcf79-eb02-494f-984c-f52cd20667db.png" alt="Three-year membership badge"></a>
-          <a href="https://connect.symfony.com/badge/169/symfonyworld-online-2021-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/4c1afae3-112e-4f10-99f7-70556b7a6954/60cb7ab4-6b2d-4982-aa68-cffb5314c61e.png" alt="SymfonyWorld Online 2021 Attendee badge"></a>
+          <a href="https://connect.symfony.com/badge/170/symfonyworld-online-2021-winter-edition-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/9ab3ef75-ef42-4627-b8bf-259d1e574301/ff9f081d-e6b2-4bb7-80b6-24d5fe4e9e69.png" alt="SymfonyWorld Online 2021 Winter Edition Attendee badge"></a>
+          <a href="https://connect.symfony.com/badge/169/symfonyworld-online-2021-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/4c1afae3-112e-4f10-99f7-70556b7a6954/dd7498a6-2c1e-43f0-bfb1-1b082d176124.png" alt="SymfonyWorld Online 2021 Summer Edition Attendee badge"></a>
           <a href="https://connect.symfony.com/badge/162/symfonyworld-online-2020-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/06d08605-7446-46a6-b972-9ee8baf5eb23/6acdd638-9cfd-4a4a-be24-9821c422587e.png" alt="SymfonyWorld Online 2020 Attendee badge"></a>
-          <a href="https://connect.symfony.com/badge/3/profile-completed"><img width="100" src="https://connect.symfony.com/uploads/badges/6c89d051-4774-4745-ad1b-6341ef76abef/64c0ff3d-be6c-45cc-848c-5613ec078ffc.png" alt="Profile completed badge"></a>
           <a href="https://connect.symfony.com/badge/132/symfony-loves-php-usa-2018-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/b99abfae-907d-4190-b7f4-d86d8715db30/fd7cc0d8-2b27-428f-aac6-31166d4eaaf4.png" alt="Symfony Loves PHP USA 2018 Attendee badge"></a>
           <a href="https://connect.symfony.com/badge/36/symfony-documentation-contributor"><img width="100" src="https://connect.symfony.com/uploads/badges/b732d9fb-0002-47c2-a91e-1a1e1fa1b445/08aca44d-2aa2-4d25-83a2-ed7586bef9d1.png" alt="Symfony Documentation Contributor badge"></a>
           <a href="https://connect.symfony.com/badge/32/symfony-code-contributor"><img width="100" src="https://connect.symfony.com/uploads/badges/d27696df-b4e2-41a0-93f6-c0757004b3e0/e28d01bc-e3be-43c7-a310-33e9e07e3506.png" alt="Symfony Code Contributor badge"></a>
@@ -38,4 +39,4 @@
   </details>
 
 
-<img align="right" src='https://img.shields.io/badge/Updated on-12--11--2021 17:47:23-green?style=flat-square&labelColor=black' alt='Updated on 12--11--2021 17:47:23'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-12--17--2021 11:56:50-green?style=flat-square&labelColor=black' alt='Updated on 12--17--2021 11:56:50'/>
