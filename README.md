@@ -17,6 +17,7 @@
 
 <details>
   <summary>🎼 My Symfony Badges</summary><br />
+          <a href="https://connect.symfony.com/badge/71/eight-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/b3ef1fd5-aa43-49e0-8d51-a3612cbd9e1a/f8b3fed6-edee-4ef5-adf6-9f3e8e524eab.png" alt="Eight-year membership badge"></a>
           <a href="https://connect.symfony.com/badge/150/symfony-5-certified-developer-advanced"><img width="100" src="https://connect.symfony.com/uploads/badges/f96d22e1-7b4b-48bd-9a04-d599217cc0d4/ae7a35e5-78da-4b1d-b945-fe7b1d1d22c4.png" alt="Symfony 5 Certified Developer (Advanced) badge"></a>
           <a href="https://connect.symfony.com/badge/26/seven-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/d28c3e13-1a93-4988-986c-6875dc83f356/f7db381f-7942-40c4-82c3-f889cb0c10bc.png" alt="Seven-year membership badge"></a>
           <a href="https://connect.symfony.com/badge/25/six-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/d92978da-be67-455c-a2f9-e18298041111/bfac5876-a833-4fd4-a14f-af08d5672a4a.png" alt="Six-year membership badge"></a>
@@ -39,4 +40,4 @@
   </details>
 
 
-<img align="right" src='https://img.shields.io/badge/Updated on-01--01--2022 17:52:09-green?style=flat-square&labelColor=black' alt='Updated on 01--01--2022 17:52:09'/>
+<img align="right" src='https://img.shields.io/badge/Updated on-01--08--2022 17:53:56-green?style=flat-square&labelColor=black' alt='Updated on 01--08--2022 17:53:56'/>
