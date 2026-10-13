@@ -97,10 +97,10 @@ AI-powered educational platform that enables teachers to effortlessly create tai
 
 <table>
 <tr><th width="50%">📝 Publications</th><th width="50%">🎤 Talks & livestreams</th></tr>
-<tr><td valign="top"><b><a href="https://crystallize.com/blog/build-service-api">Build Your Crystallize Service API Like a Pro</a></b><br/><sub>Sep 2025 · Crystallize</sub><br/><br/>
+<tr><td valign="top"><b><a href="https://crystallize.com/blog/claudette-ai-agent-at-crystallize">How We Gave an AI Agent Our Codebase Without Giving It the Keys?</a></b><br/><sub>Oct 2026 · Crystallize</sub><br/><br/>
+<b><a href="https://crystallize.com/blog/build-service-api">Build Your Crystallize Service API Like a Pro</a></b><br/><sub>Sep 2025 · Crystallize</sub><br/><br/>
 <b><a href="https://crystallize.com/blog/web-rendering">Web Rendering Explained: SSR, CSR &amp; SSG for High-Performance Sites</a></b><br/><sub>Jan 2025 · Crystallize</sub><br/><br/>
-<b><a href="https://crystallize.com/blog/subscriptions-api-overview">Subscriptions (API) Overview</a></b><br/><sub>Nov 2024 · Crystallize</sub><br/><br/>
-<b><a href="https://crystallize.com/blog/authentication-vs-authorization">Authentication vs. Authorization</a></b><br/><sub>Apr 2023 · Crystallize</sub></td><td valign="top"><b><a href="https://youtu.be/Ge0DbLf-2R0?t=23593">Beyond Chat: When AI streams React components! Your cart has ideas!</a></b><br/><sub>Jun 2026 · React Norway 2026 · Rockefeller Oslo, Norway</sub><br/><br/>
+<b><a href="https://crystallize.com/blog/subscriptions-api-overview">Subscriptions (API) Overview</a></b><br/><sub>Nov 2024 · Crystallize</sub></td><td valign="top"><b><a href="https://youtu.be/Ge0DbLf-2R0?t=23593">Beyond Chat: When AI streams React components! Your cart has ideas!</a></b><br/><sub>Jun 2026 · React Norway 2026 · Rockefeller Oslo, Norway</sub><br/><br/>
 <b><a href="https://youtube.com/live/gk-oJs-g028">Build with Crystallize Using AI — Meet the MCP Server</a></b><br/><sub>Mar 2026 · Crystallize Channel · Online</sub><br/><br/>
 <b><a href="https://www.youtube.com/watch?v=A0jLC1yTqeM">I got interviewed by the NextDev.fm team!</a></b><br/><sub>Mar 2025 · NextDev.fm · Youtube Channel</sub><br/><br/>
 <b><a href="https://www.youtube.com/watch?v=VFNPyCWd-MQ">How to build a MCP Server</a></b><br/><sub>Mar 2025 · All Things Web · Youtube Channel</sub></td></tr>
@@ -173,4 +173,4 @@ AI-powered educational platform that enables teachers to effortlessly create tai
 
 <p align="center"><a href="https://sebastien.morel.me"><b>More on sebastien.morel.me →</b></a></p>
 
-<img align="right" src="https://img.shields.io/badge/Updated%20on-10--13--2026%2016%3A12%3A35-green?style=flat-square&amp;labelColor=black" alt="Updated on 10-13-2026 16:12:35"/>
+<img align="right" src="https://img.shields.io/badge/Updated%20on-10--13--2026%2016%3A29%3A24-green?style=flat-square&amp;labelColor=black" alt="Updated on 10-13-2026 16:29:24"/>
