@@ -1,43 +1,176 @@
-<p>Hi 👋, I am<a href='https://linkedin.com/in/sebastienmorel' target='_blank'><img src='https://img.shields.io/badge/Sebastien Morel-black?style=flat-square&logo=linkedin' alt='Sebastien Morel'/></a> aka<a href='https://twitter.com/plopix' target='_blank'><img src='https://img.shields.io/badge/Plopix-black?style=flat-square&logo=twitter' alt='Plopix'/></a>. I am CTO at <a target='_blank' href='https://crystallize.com' title='Crystallize'>Crystallize</a>. I live in California, and I come from France 🥖.</p><p>Thrilled maintainer 🦚 (or co-maintainer) on those projects: <a href="https://plopix.github.io/" title="">https://plopix.github.io</a>, my favorite technologies are <a href='https://www.typescriptlang.org' target='_blank'><img src='https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript' alt='TypeScript'/></a>,<a href='https://www.php.net' target='_blank'><img src='https://img.shields.io/badge/PHP-black?style=flat-square&logo=php' alt='PHP'/></a> and <a href='https://symfony.com' target='_blank'><img src='https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony' alt='Symfony'/></a> (proudly certified 5.x)</p><p>🚀 I often push to ship projects with <a href='https://platorm.sh' target='_blank'><img src='https://img.shields.io/badge/Platform.sh-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCI+PGRlZnM+PHN0eWxlPi5iY2FjNjk1YS1hMGE0LTQxMDAtODRmZC02MWVjYzQyMTA5MWN7ZmlsbDojMGEwYTBhO30uZmM4ZGQ0MjItZmIwMi00ODIyLWE1N2UtYzIwYzhiNWVlZjdje2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPlBsYXRmb3Jtc2hfaWNvbl93aGl0ZTwvdGl0bGU+PGcgaWQ9ImI1ZjliYjQ5LTE2MTQtNGIyMi04YzA0LWY1MTgyYzE4MDNmNSIgZGF0YS1uYW1lPSJMYXllciAyIj48ZyBpZD0iYjJhMjg1NjAtNWU0OC00NDM1LWFjY2QtZTE0OWI0Zjk2Y2MwIiBkYXRhLW5hbWU9IkxheWVyIDEiPjxyZWN0IGNsYXNzPSJiY2FjNjk1YS1hMGE0LTQxMDAtODRmZC02MWVjYzQyMTA5MWMiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIvPjxyZWN0IGNsYXNzPSJmYzhkZDQyMi1mYjAyLTQ4MjItYTU3ZS1jMjBjOGI1ZWVmN2MiIHg9IjEwLjczIiB5PSIxMC43MiIgd2lkdGg9IjI4LjU1IiBoZWlnaHQ9IjExLjM1Ii8+PHJlY3QgY2xhc3M9ImZjOGRkNDIyLWZiMDItNDgyMi1hNTdlLWMyMGM4YjVlZWY3YyIgeD0iMTAuNzMiIHk9IjM1LjQyIiB3aWR0aD0iMjguNTUiIGhlaWdodD0iMy44NiIvPjxyZWN0IGNsYXNzPSJmYzhkZDQyMi1mYjAyLTQ4MjItYTU3ZS1jMjBjOGI1ZWVmN2MiIHg9IjEwLjczIiB5PSIyNS43NCIgd2lkdGg9IjI4LjU1IiBoZWlnaHQ9IjUuODIiLz48L2c+PC9nPjwvc3ZnPg==' alt='Platform.sh'/></a>,<a href='https://www.cloudflare.com/' target='_blank'><img src='https://img.shields.io/badge/Cloudlfare-worker-green?style=flat-square&logo=cloudflare&labelColor=black' alt='Cloudlfare - worker'/></a>,<a href='https://fly.io/' target='_blank'><img src='https://img.shields.io/badge/Fly.io-black?style=flat-square&logo=flyio' alt='Fly.io'/></a>,<a href='https://vercel.com' target='_blank'><img src='https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel' alt='Vercel'/></a>, and many others. Not to mention <a href='https://aws.amazon.com' target='_blank'><img src='https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws' alt='AWS'/></a></p><p>🐳 and for local developments that's of course <a href='https://docker.com' target='_blank'><img src='https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker' alt='Docker'/></a>.</p><p>🧰 my toolbox is my <a href='https://www.postgresql.org/' target='_blank'><img src='https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql' alt='PostgreSQL'/></a>,<a href='https://www.mongodb.com/' target='_blank'><img src='https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb' alt='MongoDB'/></a>,<a href='https://www.mysql.com' target='_blank'><img src='https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql' alt='MySQL'/></a>, <a href='https://redislabs.com' target='_blank'><img src='https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis' alt='Redis'/></a>, <a href='https://www.elastic.co' target='_blank'><img src='https://img.shields.io/badge/ElasticSearch-black?style=flat-square&logo=elasticsearch' alt='ElasticSearch'/></a> ,<a href='https://lucene.apache.org/solr' target='_blank'><img src='https://img.shields.io/badge/Solr-black?style=flat-square&logo=apache-solr' alt='Solr'/></a>, <a href='https://algolia.com' target='_blank'><img src='https://img.shields.io/badge/Algolia-black?style=flat-square&logo=algolia' alt='Algolia'/></a> all the time with <a href='https://varnish-cache.org' target='_blank'><img src='https://img.shields.io/badge/Varnish-black?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAIRlWElmTU0AKgAAAAgABQESAAMAAAABAAEAAAEaAAUAAAABAAAASgEbAAUAAAABAAAAUgEoAAMAAAABAAIAAIdpAAQAAAABAAAAWgAAAAAAAABIAAAAAQAAAEgAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAAA6gAwAEAAAAAQAAAA4AAAAATspU+QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAVlpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDUuNC4wIj4KICAgPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iPgogICAgICAgICA8dGlmZjpPcmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KTMInWQAAAgJJREFUKBV1UjFrFEEUfu/tZkl2T6LeXsR0gtichZJCRBCES6dYmRMtBAXBUt2kshiwsAj+ABHSKKjJL1ivOAXBQiXVKVrZKHibQ5LLmtxmd8Y377JGDn0wb2bezPfNN+89hP+ZMQiIxh6H8/F5BDqOGla7D2djG0Pr/mE2LqDafOs5TUw2jc6ZxwG9vbGULM7eIAEpRWBfKE21HbsMF+KrFBxs6l/rOzBIMwYV5E9er0atiwTK8FBaZFkCa9/3CQkaPG3yARg0TIseBwtT5EBkTrmgUB+K4uBH5e2WEPA1mH4lMgHoE46NAw42c8Za7ZpcD0xGnym8G89odL6G6ZkY1LLH3zbQSQQ4FRx+rDd776hS88HzPaqE4zr9+Trx3zwhdJwT7tSREMltVNcnaiLVOpbdUfUsCNyzJl1b0Fn6tOiv3U4CtzFUdmnZCaOXd8IoviAgeZVXHAfVdiU26ph0L5Ojh+XeEtRrOEzYB4BHN21dbAkM1tXHsQ50NahzOdftHmfhGn911XPp1rcHjZ6UarcZSj6WgqYDbQGFUesKVar3zdYGYHDgaNbv2iQ1YW7FlqkoQXberdsXkUyEM8B1MsVOj7Npe+ekXF6ZY9BfDfIHOH1M0q9BP9PbfSB/f5WHxSwJUJI07FvZs9tLjnQQaltXbo3L3OHvk8XGi/Li6Pwb353L6BLKBBsAAAAASUVORK5CYII=' alt='Varnish'/></a>.</p><p>🧪 for CI, it's <a href='https://git-scm.com' target='_blank'><img src='https://img.shields.io/badge/Git-black?style=flat-square&logo=git' alt='Git'/></a>, <a href='https://github.com' target='_blank'><img src='https://img.shields.io/badge/Github-black?style=flat-square&logo=github' alt='Github'/></a>, and <a href='https://github.com/features/actions' target='_blank'><img src='https://img.shields.io/badge/Github Actions-black?style=flat-square&logo=github-actions' alt='Github Actions'/></a>(still a bit of <a href='https://travis-ci.com' target='_blank'><img src='https://img.shields.io/badge/Travis-black?style=flat-square&logo=travis' alt='Travis'/></a>) and occasionally <a href='https://gitlab.com' target='_blank'><img src='https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab' alt='Gitlab'/></a> or <a href='https://bitbucket.com' target='_blank'><img src='https://img.shields.io/badge/Bitbucket-black?style=flat-square&logo=bitbucket' alt='Bitbucket'/></a>.
+<!-- Generated by generator/cli.ts from https://sebastien.morel.me/api: change the portfolio, not this file. -->
 
-🌉 I am a huge fan of <a href='https://remix.run/' target='_blank'><img src='https://img.shields.io/badge/Remix Run-black?style=flat-square&logo=remix' alt='Remix Run'/></a> for Frontend developments, and when it comes to <a href='https://www.w3.org/html' target='_blank'><img src='https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5' alt='HTML'/></a>,  <a href='https://www.w3.org/Style/CSS/specs.en.html' target='_blank'><img src='https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3' alt='CSS'/></a>, I use <a href='https://www.typescriptlang.org' target='_blank'><img src='https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript' alt='TypeScript'/></a>,<a href='https://www.w3schools.com/js/js_es6.asp' target='_blank'><img src='https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript' alt='Javascript'/></a> on top of <a href='https://reactjs.org' target='_blank'><img src='https://img.shields.io/badge/React JS-black?style=flat-square&logo=react' alt='React JS'/></a> with <a href='https://tailwindcss.com/' target='_blank'><img src='https://img.shields.io/badge/Tailwind CSS-black?style=flat-square&logo=tailwindcss' alt='Tailwind CSS'/></a>or<a href='https://getbootstrap.com' target='_blank'><img src='https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap' alt='Bootstrap'/></a>if needed.</p><p>
+<a href="https://sebastien.morel.me">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img alt="Chief Technology Officer @ Crystallize. Driving Innovation and accelerating growth through AI-Augmented Tech Leadership." src="./assets/hero-light.svg" width="100%">
+</picture>
+</a>
+
+<p align="center">
+<a href="https://linkedin.com/in/sebastienmorel"><img src="https://img.shields.io/badge/Linkedin-black?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="Linkedin"/></a>
+<a href="https://x.com/plopix"><img src="https://img.shields.io/badge/Twitter%2FX-black?style=flat-square&amp;logo=x" alt="Twitter/X"/></a>
+<a href="https://bsky.app/profile/morel.me"><img src="https://img.shields.io/badge/Bluesky-black?style=flat-square&amp;logo=bluesky" alt="Bluesky"/></a>
+<a href="https://discordapp.com/users/plopix"><img src="https://img.shields.io/badge/Discord-black?style=flat-square&amp;logo=discord" alt="Discord"/></a>
+<a href="https://www.chess.com/member/plopix"><img src="https://img.shields.io/badge/Chess.com-black?style=flat-square&amp;logo=chessdotcom" alt="Chess.com"/></a>
+<a href="https://sebastien.morel.me"><img src="https://img.shields.io/badge/sebastien.morel.me-ff9900?style=flat-square" alt="Website"/></a>
 </p>
 
-<a href="https://github.com/plopix"><img alt="Plopix's Github stats" src="https://github-readme-stats.vercel.app/api?username=plopix&count_private=true&show_icons=true&hide_title=true" /></a>
-<a href="https://github.com/sponsors/plopix"><img align="right" src="https://github.githubassets.com/images/modules/site/sponsors/logo-mona.svg" alt="Mona holding a heart" width="180"/></a>
+I'm Sébastien, aka **Plopix**, I live in California, and I come from France. I am a **passionate technologist**, **architect**, and **problem-solver** who has gone all-in on AI: I build **agentic systems** that run in production, and I develop with agents every day. With a deep focus on **scalability**, **performance**, and **system architecture**, I orchestrate **agentic workflows** that multiply engineering output — combining **agents**, **custom skills**, **MCP servers**, and **CLI tools** to push the boundaries of what a team can ship.
 
+_This is my space to share my experience, projects, and thoughts on AI-driven engineering and the ever-evolving tech landscape. Welcome!_
+
+## 🤖 AI Workflow & Tooling
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
+  <img alt="Terminal: 35 agents (Claude Code, Codex, Gemini CLI) orchestrated with CMUX and a custom RALPH loop." src="./assets/terminal-light.svg" width="100%">
+</picture>
+
+<table>
+<tr><td colspan="2" valign="top">🕸️ <b>Graph Engineering</b><br/>Agent pipelines designed as <b>graphs</b>: planner, parallel workers and reviewer nodes with shared state, branching, retries and human checkpoints.</td></tr>
+<tr><td width="50%" valign="top">🛠️ <b>Custom Skills</b><br/>Authored agent skills like a <b>/write-a-prd</b> that generates structured <code>PRD.json</code> file for automated implementation.</td><td width="50%" valign="top">🔌 <b>MCP Servers &amp; CLI Tools</b><br/>Remote <b>MCP servers</b> to extend agent capabilities and <b>CLI tools</b> to streamline agentic workflows.</td></tr>
+<tr><td width="50%" valign="top">🔔 <b>Plugins</b><br/>Custom notification plugins that alert me when agents need attention, complete tasks, or hit blockers.</td><td width="50%" valign="top">🌳 <b>Git Worktree Integration</b><br/>Agents work in isolated Git worktrees, enabling parallel development without branch conflicts.</td></tr>
+</table>
+
+<p align="center">Operating as an <b>AI-augmented engineering team</b> — shipping faster, with higher quality, across more fronts.</p>
+
+## 🧩 Open Source
+
+<table>
+<tr><td width="50%" valign="top"><b><a href="https://missive-js.github.io/missive.js/">Missive.js</a></b> <sub>Creator · Maintainer</sub><br/>
+<i>The Service Bus that you or your agent needed.</i><br/>
+<sub>Fully-typed Service Bus for Node.js fueled by fancy Middlewares, Envelopes and Stamps.</sub><br/>
+<br/><a href="https://github.com/missive-js/missive.js"><img src="https://img.shields.io/github/stars/missive-js/missive.js?style=flat-square&amp;logo=github&amp;labelColor=black&amp;color=ff9900" alt="Missive.js GitHub stars"/></a> <a href="https://www.npmjs.com/package/missive.js"><img src="https://img.shields.io/npm/v/missive.js?style=flat-square&amp;logo=npm&amp;labelColor=black&amp;color=ff9900" alt="Missive.js on npm"/></a></td><td width="50%" valign="top"><b><a href="https://crystallize.com/learn/open-source/sdks-and-libraries/js-api-client">Crystallize JS Api Client</a></b> <sub>Creator · Maintainer</sub><br/>
+<i>Crystallize (Java|Type) script Client</i><br/>
+<sub>Provides simplifications and helpers to easily fetch data from your Crystallize tenant.</sub><br/>
+<br/><a href="https://github.com/CrystallizeApi/js-api-client"><img src="https://img.shields.io/github/stars/CrystallizeApi/js-api-client?style=flat-square&amp;logo=github&amp;labelColor=black&amp;color=ff9900" alt="Crystallize JS Api Client GitHub stars"/></a> <a href="https://www.npmjs.com/package/@crystallize/js-api-client"><img src="https://img.shields.io/npm/v/@crystallize/js-api-client?style=flat-square&amp;logo=npm&amp;labelColor=black&amp;color=ff9900" alt="Crystallize JS Api Client on npm"/></a></td></tr>
+<tr><td width="50%" valign="top"><b><a href="https://sebastien.morel.me/cliffhanger/">CLIffhanger</a></b> <sub>Creator · Maintainer</sub><br/>
+<i>Scripts to MCP Server tool in an instant.</i><br/>
+<sub>A CLI that runs your scripts and exposes them as tools through a built-in, extensible MCP server.</sub><br/>
+<br/><a href="https://github.com/plopix/cliffhanger"><img src="https://img.shields.io/github/stars/plopix/cliffhanger?style=flat-square&amp;logo=github&amp;labelColor=black&amp;color=ff9900" alt="CLIffhanger GitHub stars"/></a></td><td width="50%" valign="top"><b><a href="https://bgit.dev/">Better Git</a></b> <sub>Creator · Maintainer</sub><br/>
+<i>A better version of Git CLI</i><br/>
+<sub>During the &quot;Better Hack&quot; Hackathon at Y Combinator organized by Better Auth. The theme was to make something existing better, we chose Git and we built a wrapper around it to make some command AI-augmented!</sub><br/>
+<br/><a href="https://github.com/plopix/bgit"><img src="https://img.shields.io/github/stars/plopix/bgit?style=flat-square&amp;logo=github&amp;labelColor=black&amp;color=ff9900" alt="Better Git GitHub stars"/></a></td></tr>
+</table>
 
 <details>
-    <summary>💯 More Stats</summary><br />
-    <img width="400" alt="Plopix's Wakatime Languages" src="https://wakatime.com/share/@plopix/9548f056-f696-41fe-8266-b025f19192c6.svg" />
-    <img width="400" alt="Plopix's Wakatime Times" src="https://wakatime.com/share/@plopix/91750824-23bb-417c-9e17-d9ee0869eda2.svg" />
+  <summary>🕰️ Legacy projects</summary><br/>
+
+- [Nova eZ SEO Bundle](https://novactive.github.io/NovaeZSEOBundle) — Optimized SEO management for eZ Platform
+- [eZ Launchpad](https://ezsystems.github.io/launchpad/) — CLI tool to bootstrap an eZ Platform project Docker stack
+- [Nova eZ Slack Bundle](https://github.com/Novactive/NovaeZSlackBundle) — Drive your CMS with this complete Slack integration
+- [Nova eZ 2FA Bundle](https://github.com/Novactive/NovaeZ2FABundle) — Security first!
+- [Nova eZ Cloudinary Bundle](https://github.com/Novactive/NovaeZCloudinaryBundle) — Images optimizations and manipulations by Cloudinary on top of variations
+- [Nova eZ Fastly Image Optimizer Bundle](https://github.com/Novactive/NovaeZFastlyImageOptimizerBundle) — Images optimizations and manipulations by Fastly on top of variations
+- [Nova eZ Protected Content Bundle](https://github.com/Novactive/NovaeZProtectedContentBundle) — Protect contents via a simple password without changing the Content Type
+- [Plopix JS Console](https://github.com/plopix/js-console-wrapper) — A beautiful Console.log wrapper
+</details>
+
+## 🚀 Side Projects
+
+<table>
+<tr><td width="50%" valign="top"><b><a href="https://endless-chess.com">Endless Chess</a></b><br/>
+<sub>Founder · Spring 2026</sub><br/>
+Gamification layer for chess that turns the games you already play on Chess.com and Lichess into daily quests, streaks, XP, and rivalries.<br/>
+<sub><code>Cloudflare</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Chess.com API</code> <code>Lichess API</code> <code>Plausible Analytics</code></sub></td><td width="50%" valign="top"><b><a href="https://color-conquest.com">Color Conquest</a></b><br/>
+<sub>Founder · Spring 2026</sub><br/>
+Browser-based, location-aware PvP game where players claim a permanent color identity and stake a real-world location, then battle for territory — winning absorbs an opponent&#39;s colors while losing drains your own.<br/>
+<sub><code>Cloudflare</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Plausible Analytics</code></sub></td></tr>
+<tr><td width="50%" valign="top"><b><a href="https://shipwire.dev">Shipwire</a></b><br/>
+<sub>Founder · March 2026</sub><br/>
+AI-powered tool that monitors GitHub repositories and delivers concise, automated digests of code changes to teams via Slack or Telegram on a customizable schedule.<br/>
+<sub><code>Cloudflare</code> <code>Hobo JS</code> <code>GitHub API</code> <code>Slack API</code> <code>Telegram Bot API</code> <code>Better Auth</code></sub></td><td width="50%" valign="top"><b><a href="https://time-capsule.io">Time Capsule</a></b><br/>
+<sub>Co-Founder with my brothers. · Christmas 2025</sub><br/>
+Digital time capsule platform that lets you lock messages, photos, and videos in the present to be revealed to yourself or loved ones at a chosen moment in the future.<br/>
+<sub><code>Hono JS</code> <code>Custom React Island Frontend using Vite plugins</code> <code>Cloudflare</code> <code>Better Auth</code> <code>Stripe</code></sub></td></tr>
+<tr><td width="50%" valign="top"><b><a href="https://miape.fr">Miape</a></b><br/>
+<sub>Co-Founder with my wife and two teacher friends. · Summer 2025</sub><br/>
+Educational AI platform created by teachers for teachers, helping educators prepare teaching sequences, implement pedagogical differentiation, and strengthen student learning outcomes.<br/>
+<sub><code>Next.js</code> <code>OpenAI API</code> <code>MongoDB</code> <code>Fly.io</code></sub></td><td width="50%" valign="top"><b><a href="https://ok-wallace.com">Ok Wallace</a></b><br/>
+<sub>Co-Founder with my French teacher wife. · November 2023, right after OpenAI released the first version of Assistant API.</sub><br/>
+AI-powered educational platform that enables teachers to effortlessly create tailored and engaging assignments adapted to individual student learning styles and paces.<br/>
+<sub><code>Remix Run</code> <code>OpenAI API</code> <code>MongoDB</code> <code>Fly.io</code> <code>Vector search</code></sub></td></tr>
+</table>
+
+## ✍️ Latest publications & talks
+
+<table>
+<tr><th width="50%">📝 Publications</th><th width="50%">🎤 Talks & livestreams</th></tr>
+<tr><td valign="top"><b><a href="https://crystallize.com/blog/build-service-api">Build Your Crystallize Service API Like a Pro</a></b><br/><sub>Sep 2025 · Crystallize</sub><br/><br/>
+<b><a href="https://crystallize.com/blog/web-rendering">Web Rendering Explained: SSR, CSR &amp; SSG for High-Performance Sites</a></b><br/><sub>Jan 2025 · Crystallize</sub><br/><br/>
+<b><a href="https://crystallize.com/blog/subscriptions-api-overview">Subscriptions (API) Overview</a></b><br/><sub>Nov 2024 · Crystallize</sub><br/><br/>
+<b><a href="https://crystallize.com/blog/authentication-vs-authorization">Authentication vs. Authorization</a></b><br/><sub>Apr 2023 · Crystallize</sub></td><td valign="top"><b><a href="https://youtu.be/Ge0DbLf-2R0?t=23593">Beyond Chat: When AI streams React components! Your cart has ideas!</a></b><br/><sub>Jun 2026 · React Norway 2026 · Rockefeller Oslo, Norway</sub><br/><br/>
+<b><a href="https://youtube.com/live/gk-oJs-g028">Build with Crystallize Using AI — Meet the MCP Server</a></b><br/><sub>Mar 2026 · Crystallize Channel · Online</sub><br/><br/>
+<b><a href="https://www.youtube.com/watch?v=A0jLC1yTqeM">I got interviewed by the NextDev.fm team!</a></b><br/><sub>Mar 2025 · NextDev.fm · Youtube Channel</sub><br/><br/>
+<b><a href="https://www.youtube.com/watch?v=VFNPyCWd-MQ">How to build a MCP Server</a></b><br/><sub>Mar 2025 · All Things Web · Youtube Channel</sub></td></tr>
+<tr><td align="right"><a href="https://sebastien.morel.me/publications">All publications →</a></td><td align="right"><a href="https://sebastien.morel.me/talks">All talks & livestreams →</a></td></tr>
+</table>
+
+## 🧰 Stack
+
+<table>
+<tr><td><b>AI &amp; Agentic Tooling</b></td><td><img src="https://img.shields.io/badge/Claude%20Code-black?style=flat-square&amp;logo=claude" alt="Claude Code"/> <img src="https://img.shields.io/badge/CMUX-black?style=flat-square" alt="CMUX"/> <img src="https://img.shields.io/badge/Codex-black?style=flat-square" alt="Codex"/> <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-black?style=flat-square&amp;logo=vercel" alt="Vercel AI SDK"/></td></tr>
+<tr><td><b>Living on the Edge</b></td><td><img src="https://img.shields.io/badge/Cloudflare-black?style=flat-square&amp;logo=cloudflare" alt="Cloudflare"/> <img src="https://img.shields.io/badge/Hono%20JS-black?style=flat-square&amp;logo=hono" alt="Hono JS"/> <img src="https://img.shields.io/badge/Bun-black?style=flat-square&amp;logo=bun" alt="Bun"/> <img src="https://img.shields.io/badge/React%20Router%20v7-black?style=flat-square&amp;logo=reactrouter" alt="React Router v7"/> <img src="https://img.shields.io/badge/Astro-black?style=flat-square&amp;logo=astro" alt="Astro"/> <img src="https://img.shields.io/badge/Meilisearch-black?style=flat-square&amp;logo=meilisearch" alt="Meilisearch"/></td></tr>
+<tr><td><b>Professional</b></td><td><img src="https://img.shields.io/badge/Nest%20JS-black?style=flat-square&amp;logo=nestjs" alt="Nest JS"/> <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&amp;logo=mongodb" alt="MongoDB"/> <img src="https://img.shields.io/badge/Next.JS-black?style=flat-square&amp;logo=nextdotjs" alt="Next.JS"/> <img src="https://img.shields.io/badge/AWS-black?style=flat-square" alt="AWS"/></td></tr>
+<tr><td><b>The Basics</b></td><td><img src="https://img.shields.io/badge/Typescript-black?style=flat-square&amp;logo=typescript" alt="Typescript"/> <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&amp;logo=postgresql" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Redis-black?style=flat-square&amp;logo=redis" alt="Redis"/> <img src="https://img.shields.io/badge/SQLite-black?style=flat-square&amp;logo=sqlite" alt="SQLite"/> <img src="https://img.shields.io/badge/React%20JS-black?style=flat-square&amp;logo=react" alt="React JS"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&amp;logo=tailwindcss" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Docker-black?style=flat-square&amp;logo=docker" alt="Docker"/> <img src="https://img.shields.io/badge/Git-black?style=flat-square&amp;logo=git" alt="Git"/> <img src="https://img.shields.io/badge/Github-black?style=flat-square&amp;logo=github" alt="Github"/> <img src="https://img.shields.io/badge/RabbitMQ-black?style=flat-square&amp;logo=rabbitmq" alt="RabbitMQ"/> <img src="https://img.shields.io/badge/Varnish-black?style=flat-square" alt="Varnish"/> <img src="https://img.shields.io/badge/Algolia-black?style=flat-square&amp;logo=algolia" alt="Algolia"/> <img src="https://img.shields.io/badge/Shell-black?style=flat-square&amp;logo=gnubash" alt="Shell"/> <img src="https://img.shields.io/badge/Makefile-black?style=flat-square&amp;logo=gnu" alt="Makefile"/></td></tr>
+</table>
+
+<details>
+  <summary>🦕 Earlier stack</summary><br/>
+
+<table>
+<tr><td><b>My Previous Life - Up to the Late 2010s</b></td><td><img src="https://img.shields.io/badge/Ibexa-black?style=flat-square" alt="Ibexa"/> <img src="https://img.shields.io/badge/PHP-black?style=flat-square&amp;logo=php" alt="PHP"/> <img src="https://img.shields.io/badge/Symfony-black?style=flat-square&amp;logo=symfony" alt="Symfony"/> <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&amp;logo=mysql" alt="MySQL"/> <img src="https://img.shields.io/badge/Solr-black?style=flat-square&amp;logo=apachesolr" alt="Solr"/> <img src="https://img.shields.io/badge/Platform%20SH-black?style=flat-square&amp;logo=platformdotsh" alt="Platform SH"/> <img src="https://img.shields.io/badge/Travis-black?style=flat-square&amp;logo=travisci" alt="Travis"/></td></tr>
+<tr><td><b>Old School</b></td><td><img src="https://img.shields.io/badge/Objective--C-black?style=flat-square" alt="Objective-C"/> <img src="https://img.shields.io/badge/Swift-black?style=flat-square&amp;logo=swift" alt="Swift"/> <img src="https://img.shields.io/badge/Ansible-black?style=flat-square&amp;logo=ansible" alt="Ansible"/> <img src="https://img.shields.io/badge/eZ%20Platform-black?style=flat-square" alt="eZ Platform"/> <img src="https://img.shields.io/badge/eZ%20Publish-black?style=flat-square" alt="eZ Publish"/> <img src="https://img.shields.io/badge/Memcached-black?style=flat-square" alt="Memcached"/></td></tr>
+</table>
+</details>
+
+## 📊 Stats & badges
+
+<a href="https://github.com/sponsors/plopix"><img align="right" src="https://github.githubassets.com/images/modules/site/sponsors/logo-mona.svg" alt="Mona holding a heart" width="180"/></a>
+
+<a href="https://github.com/plopix">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=plopix&amp;count_private=true&amp;show_icons=true&amp;hide_title=true&amp;bg_color=171717&amp;border_color=404040&amp;text_color=d4d4d4&amp;icon_color=ff9900&amp;ring_color=ff9900">
+  <img alt="Plopix&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=plopix&amp;count_private=true&amp;show_icons=true&amp;hide_title=true&amp;border_color=e5e5e5&amp;text_color=525252&amp;icon_color=ff9900&amp;ring_color=ff9900">
+</picture>
+</a>
+
+<details>
+  <summary>💯 More Stats</summary><br/>
+  <img width="400" alt="Plopix's Wakatime Languages" src="https://wakatime.com/share/@plopix/9548f056-f696-41fe-8266-b025f19192c6.svg"/>
+  <img width="400" alt="Plopix's Wakatime Times" src="https://wakatime.com/share/@plopix/91750824-23bb-417c-9e17-d9ee0869eda2.svg"/>
 </details>
 
 <details>
-  <summary>🎼 My Symfony Badges</summary><br />
-          <a href="https://connect.symfony.com/badge/73/ten-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/cb6edcd1-d790-4478-960f-44933774603f/3f4a0705-1b64-48e8-b5f2-070029bf6e08.png" alt="Ten-year membership badge"></a>
-          <a href="https://connect.symfony.com/badge/72/nine-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/9dd993a7-15e3-41bc-abf2-96644a7b5307/e6450cc5-fb6a-4812-9b51-7555f61672e2.png" alt="Nine-year membership badge"></a>
-          <a href="https://connect.symfony.com/badge/71/eight-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/b3ef1fd5-aa43-49e0-8d51-a3612cbd9e1a/f8b3fed6-edee-4ef5-adf6-9f3e8e524eab.png" alt="Eight-year membership badge"></a>
-          <a href="https://connect.symfony.com/badge/150/symfony-5-certified-developer-advanced"><img width="100" src="https://connect.symfony.com/uploads/badges/f96d22e1-7b4b-48bd-9a04-d599217cc0d4/ae7a35e5-78da-4b1d-b945-fe7b1d1d22c4.png" alt="Symfony 5 Certified Developer (Advanced) badge"></a>
-          <a href="https://connect.symfony.com/badge/26/seven-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/d28c3e13-1a93-4988-986c-6875dc83f356/f7db381f-7942-40c4-82c3-f889cb0c10bc.png" alt="Seven-year membership badge"></a>
-          <a href="https://connect.symfony.com/badge/25/six-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/d92978da-be67-455c-a2f9-e18298041111/bfac5876-a833-4fd4-a14f-af08d5672a4a.png" alt="Six-year membership badge"></a>
-          <a href="https://connect.symfony.com/badge/16/five-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/13f9afa9-8bf1-4f41-b4e7-b5237746556e/edb3831a-be9a-4e16-a70d-309aa57d08df.png" alt="Five-year membership badge"></a>
-          <a href="https://connect.symfony.com/badge/15/four-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/3e9693d4-db4b-4ea7-a43c-db3fe4557b57/8652f548-dc0d-4d14-9d25-9a4c61d46032.png" alt="Four-year membership badge"></a>
-          <a href="https://connect.symfony.com/badge/14/three-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/6959cc5f-ec03-4700-b00c-e3320896a49a/067fcf79-eb02-494f-984c-f52cd20667db.png" alt="Three-year membership badge"></a>
-          <a href="https://connect.symfony.com/badge/170/symfonyworld-online-2021-winter-edition-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/9ab3ef75-ef42-4627-b8bf-259d1e574301/ff9f081d-e6b2-4bb7-80b6-24d5fe4e9e69.png" alt="SymfonyWorld Online 2021 Winter Edition Attendee badge"></a>
-          <a href="https://connect.symfony.com/badge/169/symfonyworld-online-2021-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/4c1afae3-112e-4f10-99f7-70556b7a6954/dd7498a6-2c1e-43f0-bfb1-1b082d176124.png" alt="SymfonyWorld Online 2021 Summer Edition Attendee badge"></a>
-          <a href="https://connect.symfony.com/badge/162/symfonyworld-online-2020-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/06d08605-7446-46a6-b972-9ee8baf5eb23/6acdd638-9cfd-4a4a-be24-9821c422587e.png" alt="SymfonyWorld Online 2020 Attendee badge"></a>
-          <a href="https://connect.symfony.com/badge/132/symfony-loves-php-usa-2018-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/b99abfae-907d-4190-b7f4-d86d8715db30/fd7cc0d8-2b27-428f-aac6-31166d4eaaf4.png" alt="Symfony Loves PHP USA 2018 Attendee badge"></a>
-          <a href="https://connect.symfony.com/badge/36/symfony-documentation-contributor"><img width="100" src="https://connect.symfony.com/uploads/badges/b732d9fb-0002-47c2-a91e-1a1e1fa1b445/08aca44d-2aa2-4d25-83a2-ed7586bef9d1.png" alt="Symfony Documentation Contributor badge"></a>
-          <a href="https://connect.symfony.com/badge/32/symfony-code-contributor"><img width="100" src="https://connect.symfony.com/uploads/badges/d27696df-b4e2-41a0-93f6-c0757004b3e0/e28d01bc-e3be-43c7-a310-33e9e07e3506.png" alt="Symfony Code Contributor badge"></a>
-          <a href="https://connect.symfony.com/badge/119/symfonylive-san-francisco-2017-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/789a65fb-3d4e-4f64-a6b2-a7969f459839/e51fd9fa-9f36-4bcc-9ea6-7174f173e989.png" alt="SymfonyLive San Francisco 2017 Attendee badge"></a>
-          <a href="https://connect.symfony.com/badge/13/two-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/f92ce2f9-60b5-42aa-8651-a1e8035cf2d7/5f293091-b749-41d9-92a0-b12af52de6b0.png" alt="Two-year membership badge"></a>
-          <a href="https://connect.symfony.com/badge/94/symfonylive-san-francisco-2015-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/03494656-e99a-499b-b7e9-423cb87ad00d/c9f63661-e7a9-4f5c-87c8-f085a231041c.png" alt="SymfonyLive San Francisco 2015 Attendee badge"></a>
-          <a href="https://connect.symfony.com/badge/12/one-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/fa8faed9-80fd-4aa6-8c5c-9f36acc24702/c23a90b0-fb2a-4e39-95d2-6ff7e84a1a1c.png" alt="One-year membership badge"></a>
-          <a href="https://connect.symfony.com/badge/88/symfonylive-new-york-2014-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/c03499ff-90d1-4ca9-b67a-247b88744dbc/ca09189d-49bb-4b55-809c-f9ba0f3732d5.png" alt="SymfonyLive New York 2014 Attendee badge"></a>
-          <a href="https://connect.symfony.com/badge/85/symfonylive-2014-paris-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/8ba43650-c31f-40bc-97bc-a1e1d6bccaac/f3bfb44a-d3f9-4dba-828c-91c91bb1d089.png" alt="SymfonyLive 2014 Paris Attendee badge"></a>
-          <a href="https://connect.symfony.com/badge/1/hey-you"><img width="100" src="https://connect.symfony.com/uploads/badges/9a527385-2220-476d-a4aa-5823501c8d5f/49ac6d4a-813b-47c1-96bc-83e0d2cd46a6.png" alt="Hey you! badge"></a>
-  </details>
+  <summary>🎼 My Symfony Badges</summary><br/>
+  <a href="https://connect.symfony.com/badge/108/twelve-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/1f9d1b70-cfbd-4242-b96e-62201b5f9ba4/f5e22137-1de3-431d-b802-3b9d45e78209.png" alt="Twelve-year membership badge"/></a>
+  <a href="https://connect.symfony.com/badge/107/eleven-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/f7c7d054-7472-4898-a9c8-67b0026a674b/4184d699-d283-4a75-82ed-32a3bbe90607.png" alt="Eleven-year membership badge"/></a>
+  <a href="https://connect.symfony.com/badge/73/ten-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/cb6edcd1-d790-4478-960f-44933774603f/3f4a0705-1b64-48e8-b5f2-070029bf6e08.png" alt="Ten-year membership badge"/></a>
+  <a href="https://connect.symfony.com/badge/72/nine-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/9dd993a7-15e3-41bc-abf2-96644a7b5307/e6450cc5-fb6a-4812-9b51-7555f61672e2.png" alt="Nine-year membership badge"/></a>
+  <a href="https://connect.symfony.com/badge/71/eight-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/b3ef1fd5-aa43-49e0-8d51-a3612cbd9e1a/f8b3fed6-edee-4ef5-adf6-9f3e8e524eab.png" alt="Eight-year membership badge"/></a>
+  <a href="https://connect.symfony.com/badge/150/symfony-5-certified-developer-advanced"><img width="100" src="https://connect.symfony.com/uploads/badges/f96d22e1-7b4b-48bd-9a04-d599217cc0d4/ae7a35e5-78da-4b1d-b945-fe7b1d1d22c4.png" alt="Symfony 5 Certified Developer (Advanced) badge"/></a>
+  <a href="https://connect.symfony.com/badge/26/seven-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/d28c3e13-1a93-4988-986c-6875dc83f356/f7db381f-7942-40c4-82c3-f889cb0c10bc.png" alt="Seven-year membership badge"/></a>
+  <a href="https://connect.symfony.com/badge/25/six-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/d92978da-be67-455c-a2f9-e18298041111/bfac5876-a833-4fd4-a14f-af08d5672a4a.png" alt="Six-year membership badge"/></a>
+  <a href="https://connect.symfony.com/badge/16/five-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/13f9afa9-8bf1-4f41-b4e7-b5237746556e/edb3831a-be9a-4e16-a70d-309aa57d08df.png" alt="Five-year membership badge"/></a>
+  <a href="https://connect.symfony.com/badge/15/four-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/3e9693d4-db4b-4ea7-a43c-db3fe4557b57/8652f548-dc0d-4d14-9d25-9a4c61d46032.png" alt="Four-year membership badge"/></a>
+  <a href="https://connect.symfony.com/badge/14/three-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/6959cc5f-ec03-4700-b00c-e3320896a49a/067fcf79-eb02-494f-984c-f52cd20667db.png" alt="Three-year membership badge"/></a>
+  <a href="https://connect.symfony.com/badge/3/profile-completed"><img width="100" src="https://connect.symfony.com/uploads/badges/6c89d051-4774-4745-ad1b-6341ef76abef/64c0ff3d-be6c-45cc-848c-5613ec078ffc.png" alt="Profile completed badge"/></a>
+  <a href="https://connect.symfony.com/badge/170/symfonyworld-online-2021-winter-edition-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/9ab3ef75-ef42-4627-b8bf-259d1e574301/ff9f081d-e6b2-4bb7-80b6-24d5fe4e9e69.png" alt="SymfonyWorld Online 2021 Winter Edition Attendee badge"/></a>
+  <a href="https://connect.symfony.com/badge/169/symfonyworld-online-2021-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/4c1afae3-112e-4f10-99f7-70556b7a6954/dd7498a6-2c1e-43f0-bfb1-1b082d176124.png" alt="SymfonyWorld Online 2021 Summer Edition Attendee badge"/></a>
+  <a href="https://connect.symfony.com/badge/162/symfonyworld-online-2020-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/06d08605-7446-46a6-b972-9ee8baf5eb23/6acdd638-9cfd-4a4a-be24-9821c422587e.png" alt="SymfonyWorld Online 2020 Attendee badge"/></a>
+  <a href="https://connect.symfony.com/badge/132/symfony-loves-php-usa-2018-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/b99abfae-907d-4190-b7f4-d86d8715db30/fd7cc0d8-2b27-428f-aac6-31166d4eaaf4.png" alt="Symfony Loves PHP USA 2018 Attendee badge"/></a>
+  <a href="https://connect.symfony.com/badge/36/symfony-documentation-contributor"><img width="100" src="https://connect.symfony.com/uploads/badges/b732d9fb-0002-47c2-a91e-1a1e1fa1b445/08aca44d-2aa2-4d25-83a2-ed7586bef9d1.png" alt="Symfony Documentation Contributor badge"/></a>
+  <a href="https://connect.symfony.com/badge/32/symfony-code-contributor"><img width="100" src="https://connect.symfony.com/uploads/badges/d27696df-b4e2-41a0-93f6-c0757004b3e0/e28d01bc-e3be-43c7-a310-33e9e07e3506.png" alt="Symfony Code Contributor badge"/></a>
+  <a href="https://connect.symfony.com/badge/119/symfonylive-san-francisco-2017-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/789a65fb-3d4e-4f64-a6b2-a7969f459839/e51fd9fa-9f36-4bcc-9ea6-7174f173e989.png" alt="SymfonyLive San Francisco 2017 Attendee badge"/></a>
+  <a href="https://connect.symfony.com/badge/13/two-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/f92ce2f9-60b5-42aa-8651-a1e8035cf2d7/5f293091-b749-41d9-92a0-b12af52de6b0.png" alt="Two-year membership badge"/></a>
+  <a href="https://connect.symfony.com/badge/94/symfonylive-san-francisco-2015-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/03494656-e99a-499b-b7e9-423cb87ad00d/c9f63661-e7a9-4f5c-87c8-f085a231041c.png" alt="SymfonyLive San Francisco 2015 Attendee badge"/></a>
+  <a href="https://connect.symfony.com/badge/12/one-year-membership"><img width="100" src="https://connect.symfony.com/uploads/badges/fa8faed9-80fd-4aa6-8c5c-9f36acc24702/c23a90b0-fb2a-4e39-95d2-6ff7e84a1a1c.png" alt="One-year membership badge"/></a>
+  <a href="https://connect.symfony.com/badge/88/symfonylive-new-york-2014-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/c03499ff-90d1-4ca9-b67a-247b88744dbc/ca09189d-49bb-4b55-809c-f9ba0f3732d5.png" alt="SymfonyLive New York 2014 Attendee badge"/></a>
+  <a href="https://connect.symfony.com/badge/85/symfonylive-2014-paris-attendee"><img width="100" src="https://connect.symfony.com/uploads/badges/8ba43650-c31f-40bc-97bc-a1e1d6bccaac/f3bfb44a-d3f9-4dba-828c-91c91bb1d089.png" alt="SymfonyLive 2014 Paris Attendee badge"/></a>
+  <a href="https://connect.symfony.com/badge/1/hey-you"><img width="100" src="https://connect.symfony.com/uploads/badges/9a527385-2220-476d-a4aa-5823501c8d5f/49ac6d4a-813b-47c1-96bc-83e0d2cd46a6.png" alt="Hey you! badge"/></a>
+</details>
 
+<p align="center"><a href="https://sebastien.morel.me"><b>More on sebastien.morel.me →</b></a></p>
 
-<img align="right" src='https://img.shields.io/badge/Updated on-12--07--2024 17:06:24-green?style=flat-square&labelColor=black' alt='Updated on 12--07--2024 17:06:24'/>
+<img align="right" src="https://img.shields.io/badge/Updated%20on-10--13--2026%2016%3A12%3A35-green?style=flat-square&amp;labelColor=black" alt="Updated on 10-13-2026 16:12:35"/>

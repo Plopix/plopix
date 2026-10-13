@@ -4,34 +4,39 @@ on:
         -   cron: '42 0 * * 0'
     workflow_dispatch: ~
 
+permissions:
+    contents: write
+
 jobs:
     update:
         name: Re Generate README.md
         runs-on: ubuntu-latest
-        env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            CONTENTFUL_CONTENT_DELIVERY_API_ACCESS_TOKEN: ${{ secrets.CONTENTFUL_CONTENT_DELIVERY_API_ACCESS_TOKEN }}
-            CONTENTFUL_CONTENT_PREVIEW_API_ACCESS_TOKEN: ${{ secrets.CONTENTFUL_CONTENT_PREVIEW_API_ACCESS_TOKEN }}
-            CONTENTFUL_SPACE_ID: ${{ secrets.CONTENTFUL_SPACE_ID }}
         steps:
-            -   uses: actions/checkout@v2
+            -   uses: actions/checkout@v5
 
-            -   name: Setup PHP
-                uses: shivammathur/setup-php@master
+            -   name: Setup Bun
+                uses: oven-sh/setup-bun@v2
                 with:
-                    php-version: 7.4
-                id: php
+                    bun-version: 1.4.2
 
             -   name: Install dependencies
-                run: cd application && composer install --prefer-dist --no-progress --no-suggest --no-interaction
+                run: bun install --frozen-lockfile
+
+            -   name: Test
+                run: bun test
 
             -   name: Generate
-                run: php application/bin/generate.php > README.md
+                run: bun run generate
 
             -   name: Commit and push if changed
                 run: |
-                    git diff
                     git config --global user.email "morel.seb@gmail.com"
                     git config --global user.name "Plopix"
-                    git commit -am "Auto-Update Readme"
+                    git add README.md assets
+                    if git diff --cached --quiet; then
+                        echo "Nothing changed."
+                        exit 0
+                    fi
+                    git diff --cached --stat
+                    git commit -m "Auto-Update Readme"
                     git push

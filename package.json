@@ -1,0 +1,17 @@
+{
+    "name": "plopix-readme",
+    "private": true,
+    "type": "module",
+    "description": "Generates the github.com/plopix profile README from sebastien.morel.me",
+    "packageManager": "bun@1.4.2",
+    "scripts": {
+        "generate": "bun generator/cli.ts",
+        "test": "bun test"
+    },
+    "dependencies": {
+        "cheerio": "^1.2.0"
+    },
+    "devDependencies": {
+        "@types/bun": "^1.4.2"
+    }
+}
