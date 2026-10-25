@@ -173,4 +173,4 @@ AI-powered educational platform that enables teachers to effortlessly create tai
 
 <p align="center"><a href="https://sebastien.morel.me"><b>More on sebastien.morel.me →</b></a></p>
 
-<img align="right" src="https://img.shields.io/badge/Updated%20on-10--17--2026%2018%3A13%3A43-green?style=flat-square&amp;labelColor=black" alt="Updated on 10-17-2026 18:13:43"/>
+<img align="right" src="https://img.shields.io/badge/Updated%20on-10--24--2026%2018%3A14%3A27-green?style=flat-square&amp;labelColor=black" alt="Updated on 10-24-2026 18:14:27"/>
